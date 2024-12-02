@@ -5,10 +5,21 @@ For the past decade Artificial Intelligence (AI) is becoming a beneficial part f
 
 Output Images--
 ![Picture3](https://github.com/user-attachments/assets/cebe07ae-cabd-4049-a495-d279224dca50)
+
+
 ![Picture4](https://github.com/user-attachments/assets/eb90e9b6-c337-474f-95e3-5ba0281e9fd4)
 
+
 ![Picture5](https://github.com/user-attachments/assets/3f1f43b8-df55-41b4-a964-fe026f7a4a01)
+
+
 ![Picture7](https://github.com/user-attachments/assets/8724203e-8bed-4f34-81d7-2ecc8293e2e7)
+
+
+![Picture8](https://github.com/user-attachments/assets/f19e542b-8729-4bd6-8ebd-383ea52b6a78)
+
+
 ![Picture6](https://github.com/user-attachments/assets/60a6b596-74fb-4975-90ee-1b62f38e9741)
+
 
 
